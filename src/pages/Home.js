@@ -8,6 +8,10 @@ function Home() {
           <h1>New Star Maintenance</h1>
           <p>Restaurant Janitorial</p>
       </div>
+      <div className='about-container'>
+        <h2>About</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur esse vero id asperiores ratione molestiae fugiat veniam quo placeat voluptates omnis accusantium dolor quae minus laborum, doloremque earum. Tempore, sint. lorem</p>
+      </div>
     </div>
   );
 }
